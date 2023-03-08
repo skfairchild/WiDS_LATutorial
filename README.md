@@ -16,7 +16,7 @@ In order to use the notebooks:
 * `using IJulia` 
 * `notebook()` 
 
-Then a browser window should open, in which the local saved notebooks can be opened.D
+Then a browser window should open, in which the local saved notebooks can be opened.
 
 Other material from the [Julia Academy](https://github.com/JuliaAcademy):
 
