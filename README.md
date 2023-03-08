@@ -3,7 +3,7 @@ Repository for WiDS tutorial: Linear Algebra in Julia
 
 ## Julia und Jupyter Notebooks
 
-This repository contains the [Jupyter Notebooks](https://github.com/skfairchild/MathData-Winter22-23) from the class.
+This repository contains the Jupyter notebooks from the tutorial.
 
 In order to use the notebooks:
 
