@@ -31,10 +31,7 @@ Other material from the [Julia Academy](https://github.com/JuliaAcademy):
 
 ## Literature
 
-The following complement a recently written book on the mathematical methods in data sciences
-
-## Literature
-The following materials are chosen to complement the [course lecture notes]()
+The following complement a recently written book on [mathematical methods in data sciences](https://raw.githubusercontent.com/skfairchild/WiDS_LATutorial/main/MathData.pdf)
 
 ### 1. Linear Algebra
 
